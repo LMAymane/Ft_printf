@@ -72,5 +72,4 @@ ft_printf/
 ├── Makefile             # Compilation automation  
 ├── ft_printf.h          # Header file with function prototypes  
 ├── ft_printf.c          # Main function and parsing logic  
-├── ft_*.c               # Helper functions for each format specifier  
-└── libft/               # Optional: Use your LIBFT library for helper functions  
+└── ft_*.c               # Helper functions for each format specifier 
